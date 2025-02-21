@@ -1,0 +1,3 @@
+<additional>
+    <vType id="car" length="5" tau="1.2" sigma="0.2" minGap="1.5" carFollowModel="Krauss" />  
+</additional>
