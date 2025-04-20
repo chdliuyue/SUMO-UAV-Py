@@ -1,4 +1,4 @@
-# SUAVPy
+# SUMO-UAV-Py
 
 This project simulates UAV sensing, by integrating SUMO (Simulation of Urban MObility) traffic simulator.
 
